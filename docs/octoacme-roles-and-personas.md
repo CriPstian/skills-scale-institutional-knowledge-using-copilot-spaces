@@ -283,9 +283,9 @@ To ensure all project proposals clearly define involved roles and responsibiliti
 
 ### Project One-pager Role Section Template
 
-When completing the project one-pager, include:
+When completing the project one-pager, include the following markdown template (copy and customize for your project):
 
-```
+```markdown
 ## Team Roles and Responsibilities
 
 | Role | Name | Key Responsibilities | Decision Authority |
