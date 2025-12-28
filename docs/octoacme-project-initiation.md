@@ -29,6 +29,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Quick risks & dependencies:
 - Proposed team / roles:
 
+**Note**: For detailed guidance on defining team roles and responsibilities, see the [Project Proposal Checklist in Roles and Personas](octoacme-roles-and-personas.md#project-proposal-checklist-defining-roles-and-personas).
+
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
@@ -41,3 +43,4 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+- All required roles are identified and assigned (see [Roles and Personas](octoacme-roles-and-personas.md))

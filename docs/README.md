@@ -31,38 +31,24 @@ The planning stage breaks down work into actionable increments and establishes t
 
 ## Roles and Responsibilities
 
-Roles within OctoAcme are clearly delineated to foster accountability and smooth collaboration:
+Roles within OctoAcme are clearly delineated to foster accountability and smooth collaboration. Our comprehensive role definitions include:
 
-### Project Manager (PM)
-Coordinates overall delivery including:
-- Schedules and timeline management
-- Risk identification and mitigation
-- Status reporting and stakeholder communication
+### Core Roles
+- **Project Manager (PM)**: Coordinates overall delivery including schedules, risk management, and stakeholder communication
+- **Product Manager (PdM)**: Defines product direction, prioritizes the backlog, and defines success outcomes
+- **Developers**: Build and maintain the product with high code quality standards and comprehensive test coverage
+- **QA/Testing**: Validates quality by verifying deliverables meet acceptance criteria and conducting thorough testing
 
-### Product Manager (PdM)
-Defines the product direction by:
-- Prioritizing the backlog
-- Defining success outcomes
-- Making strategic product decisions
+### Extended Roles
+The following additional roles may be included based on project needs:
 
-### Developers
-Build and maintain the product by:
-- Implementing and testing features
-- Maintaining high code quality standards
-- Ensuring comprehensive test coverage
+- **Project Sponsor**: Provides strategic alignment, secures funding, and removes organizational barriers
+- **Business Analyst**: Clarifies requirements, facilitates stakeholder communication, and documents business needs
+- **QA Lead**: Oversees test strategy, ensures quality standards, and manages defect processes
+- **Change Manager**: Plans and monitors change management activities, stakeholder impact, and communications
+- **Stakeholder Representatives**: Provide feedback and requirements from distinct user groups, attend regular reviews, and escalate issues
 
-### QA/Testing
-Validates quality by:
-- Verifying deliverables meet acceptance criteria
-- Conducting thorough testing across all levels
-- Identifying and documenting issues
-
-### Stakeholders
-Guide the project through:
-- Providing feedback and requirements
-- Offering guidance on business priorities
-- Formal approvals at key decision gates
-- Includes business sponsors and dependent teams
+For detailed role descriptions, interactions, and a comprehensive role relationships summary, see [Roles and Personas](octoacme-roles-and-personas.md).
 
 ## Execution and Tracking
 
